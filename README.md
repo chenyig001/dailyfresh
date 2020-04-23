@@ -47,3 +47,5 @@ __4）其他__ <br/>
 
 ## 功能简介
 ![image](https://github.com/chenyig001/dailyfresh/blob/master/static/images/image.png)
+![image1](https://github.com/chenyig001/dailyfresh/blob/master/static/images/image2.png)
+![image2](https://github.com/chenyig001/dailyfresh/blob/master/image5.png)
