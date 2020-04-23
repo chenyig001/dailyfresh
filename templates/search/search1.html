@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{{ query }}
+{{ page }}
+<ul>
+    {% for item in page %}
+    <li>{{item.object}}</li>
+    {% endfor %}
+</ul>
+{{ paginator }}
+{{ page.object.name }}
+</body>
+</html>
