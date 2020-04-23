@@ -46,6 +46,9 @@ __4）其他__ <br/>
 * 点击支付完成订单的支付。
 
 ## 功能简介
+### 页面图
 ![image](https://github.com/chenyig001/dailyfresh/blob/master/static/images/image.png)
+### 功能图
 ![image](https://github.com/chenyig001/dailyfresh/blob/master/static/images/iamge2.png)
+### 部署图
 ![image2](https://github.com/chenyig001/dailyfresh/blob/master/image5.png)
