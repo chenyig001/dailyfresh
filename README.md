@@ -52,3 +52,20 @@ __4）其他__ <br/>
 ![image](https://github.com/chenyig001/dailyfresh/blob/master/static/images/iamge2.png)
 ### 部署图
 ![image2](https://github.com/chenyig001/dailyfresh/blob/master/image5.png)
+
+### 登录页面
+![image](https://github.com/chenyig001/dailyfresh/blob/master/login.png)
+
+### 首页
+![image](https://github.com/chenyig001/dailyfresh/blob/master/index.png)
+
+### 详情页面
+![image](https://github.com/chenyig001/dailyfresh/blob/master/detail.png)
+
+### 购物车页面
+![image](https://github.com/chenyig001/dailyfresh/blob/master/cart.png)
+
+### 项目地址
+120.78.215.150/index
+用户帐号：admin
+密码：123456
