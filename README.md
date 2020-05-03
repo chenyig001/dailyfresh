@@ -66,6 +66,6 @@ __4）其他__ <br/>
 ![image](https://github.com/chenyig001/dailyfresh/blob/master/cart.png)
 
 ### 项目地址
-120.78.215.150/index
-用户帐号：admin
-密码：123456
+120.78.215.150/index</br>
+用户帐号：admin</br>
+密码：123456</br>
