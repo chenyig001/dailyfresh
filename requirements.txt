@@ -24,7 +24,7 @@ django-redis-sessions==0.6.1
 django-tinymce==2.8.0
 dnspython==1.16.0
 entrypoints==0.3
-eventlet==0.25.1
+eventlet==0.31.0
 fdfs-client-py==1.2.6
 Flask==1.1.1
 future==0.17.1
