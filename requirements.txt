@@ -60,7 +60,7 @@ pandocfilters==1.4.2
 parso==0.5.1
 pefile==2019.4.18
 pickleshare==0.7.5
-Pillow==7.0.0
+Pillow==8.3.2
 prometheus-client==0.7.1
 prompt-toolkit==2.0.10
 py3Fdfs==2.2.0
